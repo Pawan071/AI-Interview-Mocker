@@ -61,12 +61,13 @@ export default function Page() {
               </a>
 
               <h1 className="mt-2 text-2xl font-bold text-gray-900 sm:text-3xl md:text-4xl">
-                Welcome to Squid 🦑
+                Welcome to AI Interview Moker 🦑
               </h1>
 
               <p className="mt-4 leading-relaxed text-gray-500">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Eligendi nam dolorum aliquam, quibusdam aperiam voluptatum.
+                Welcome to AI Interview Mocker, where we help you sharpen your
+                interview skills with realistic AI-driven simulations. Get ready
+                to practice, improve, and ace your next job interview!
               </p>
             </div>
             <SignIn />
